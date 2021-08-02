@@ -194,6 +194,8 @@ You can create footnotes like this[^1] and this[^2].
 [^1]: Here is the *text* of the first **footnote**.
 [^2]: Here is the *text* of the second **footnote**.
 
+
+
 همان طور که مشاهده میکنید در متن بالا توضیحاتی مربوط به قسمت هایی که با شماره مشخص شده اند، در پایین آورده شده است.
 
 
@@ -208,3 +210,12 @@ You can create footnotes like this[^1] and this[^2].
 
 ---
 
+
+
+### گرفتن خروجی
+
+
+
+حالا برای خروجی گرفتن از پروژه ی خود چندین انتخاب داریم. برای این کار از منوی فایل گزینه ی export را کلیک میکنیم. در این جا چندین فرمت متفاوت برای گرفتن خروجی وجود دارد.
+
+![Screenshot 2021-08-02 140943](C:\Users\Aryan\Desktop\Screenshot 2021-08-02 140943.png)
