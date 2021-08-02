@@ -18,30 +18,30 @@
 
 
 
-| توضیح | نام دستور |        دستور         |
-| :---: | :-------: | :------------------: |
-|       | Heading 1 |        ctrl+1        |
-|       | Heading 2 |        ctrl+2        |
-|       | Heading 3 |        ctrl+3        |
-|       | Heading 4 |        ctr+4         |
-|       | Heading 5 |        ctrl+5        |
-|       | Heading 6 |        ctrl+6        |
-|       | paragraph |        crtl+0        |
-|       |           |        crtl+=        |
-|       |           |        crtl+-        |
-|       |           |        crtl+t        |
-|       |           |     Alt+Up Arrow     |
-|       |           |    Alt+Down Arrow    |
-|       |           |    Alt+Left Arrow    |
-|       |           |   Alt+Right Arrow    |
-|       |           | crtl+Shift+Backspace |
-|       |           |     crtl+Shift+k     |
-|       |           |     crtl+Shift+M     |
-|       |           |     crtl+Shift+Q     |
-|       |           |    crtl+Shift+ ]     |
-|       |           |     crtl+Shift+[     |
-|       |           |        crtl+[        |
-|       |           |        crtl+]        |
+|       نام دستور        |        دستور         |
+| :--------------------: | :------------------: |
+|       Heading 1        |        ctrl+1        |
+|       Heading 2        |        ctrl+2        |
+|       Heading 3        |        ctrl+3        |
+|       Heading 4        |        ctr+4         |
+|       Heading 5        |        ctrl+5        |
+|       Heading 6        |        ctrl+6        |
+|       paragraph        |        crtl+0        |
+| Increase Heading Level |        crtl+=        |
+| Decrease Heading Level |        crtl+-        |
+|      Insert Table      |        crtl+t        |
+|      Move Row Up       |     Alt+Up Arrow     |
+|     Move Row Down      |    Alt+Down Arrow    |
+|    Move Column Left    |    Alt+Left Arrow    |
+|   Move Cloumn Right    |   Alt+Right Arrow    |
+|       Delete Row       | crtl+Shift+Backspace |
+|      Code Fences       |     crtl+Shift+k     |
+|       Math Block       |     crtl+Shift+M     |
+|         Quote          |     crtl+Shift+Q     |
+|      Orderd List       |    crtl+Shift+ ]     |
+|     Unorderd List      |     crtl+Shift+[     |
+|         Indent         |        crtl+[        |
+|        Outdent         |        crtl+]        |
 
 
 
@@ -194,6 +194,17 @@ You can create footnotes like this[^1] and this[^2].
 [^1]: Here is the *text* of the first **footnote**.
 [^2]: Here is the *text* of the second **footnote**.
 
+
+
+<div style="page-break-after: always; break-after: page;"></div>
+
+
+
+
+<div style="page-break-after: always; break-after: page;"></div>
+
+
+
 همان طور که مشاهده میکنید در متن بالا توضیحاتی مربوط به قسمت هایی که با شماره مشخص شده اند، در پایین آورده شده است.
 
 
@@ -208,3 +219,12 @@ You can create footnotes like this[^1] and this[^2].
 
 ---
 
+
+
+### گرفتن خروجی
+
+
+
+حالا برای خروجی گرفتن از پروژه ی خود چندین انتخاب داریم. برای این کار از منوی فایل گزینه ی export را کلیک میکنیم. در این جا چندین فرمت متفاوت برای گرفتن خروجی وجود دارد.
+
+![Screenshot 2021-08-02 140943](C:\Users\Aryan\Desktop\Screenshot 2021-08-02 140943.png)
