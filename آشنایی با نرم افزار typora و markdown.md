@@ -237,6 +237,22 @@ You can create footnotes like this[^1] and this[^2].
 
 
 
+### Links در markdown
+
+برای ساخت لینک به این صورت عمل میکنیم:
+
+```
+[This link](http://example.net/) has no title attribute
+```
+
+در قسمت درون براکت یعنی "[  ]"، متنی که میخواهیم به جای لینک نوشته شود را قرار میدهیم. و درون پرانتز، یعنی "(  )"، خود لینک را قرار میدهیم.
+
+مانند این لینک: 
+
+[This link](http://example.net/) 
+
+
+
 ### گرفتن خروجی
 
 
